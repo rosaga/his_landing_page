@@ -1,2 +1,1 @@
-# his_landing_page
-HIS landing page
+# Kenya Health Information Systems Landing Page
